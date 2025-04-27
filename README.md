@@ -3,4 +3,3 @@
 
 - Developed an interactive Walmart sales dashboard using pivot tables and charts.
 - Analyzed monthly profits, ROI trends, and overall sales growth.
-- Added slicers for category-wise and region-wise analysis.
